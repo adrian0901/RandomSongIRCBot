@@ -5,6 +5,7 @@
 // PL: Bot wybiera losową piosenkę (piosenki) z listy utworów po wpisaniu !randomsong <liczba piosenek>
 // EN: The bot chooses one or more songs from the list after typing !randomsong <song amount>
 // LICENSE: GNU GPL v3
+// BASED ON: http://hawkee.com/snippet/5330/ by F*U*R*B*Y
 
 // nie pozwól PHP ubić skryptu po 30 sekundach
 // don't let PHP kill the script after 30 seconds
@@ -12,7 +13,7 @@ set_time_limit(0);
 
 // dane do połączenia
 // connection data
-$chan = "#bot-test-2"; // kanał / channel
+$chan = "#music-bot"; // kanał / channel
 $server = "91.217.189.42"; // serwer / server
 $port = 6667; //port
 $nick = "RandomMusic_BOT"; // ksywka / nick
