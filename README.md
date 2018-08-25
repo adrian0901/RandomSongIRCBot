@@ -17,5 +17,5 @@ $gecos - meant for real name, can be used for anything
 $music - music list
 
 # Based on
-http://hawkee.com/snippet/5330/ by F*`U`*`R`*`B`*`Y
+http://hawkee.com/snippet/5330/ by F\*U\*R\*B\*Y\*
 
