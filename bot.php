@@ -5,7 +5,7 @@
 // PL: Bot wybiera losową piosenkę (piosenki) z listy utworów po wpisaniu !randomsong <liczba piosenek>
 // EN: The bot chooses one or more songs from the list after typing !randomsong <song amount>
 // LICENSE: GNU GPL v3
-// BASED ON: http://hawkee.com/snippet/5330/ by F*U*R*B*Y
+// BASED ON: http://hawkee.com/snippet/5330/ by F*U*R*B*Y*
 
 // nie pozwól PHP ubić skryptu po 30 sekundach
 // don't let PHP kill the script after 30 seconds
